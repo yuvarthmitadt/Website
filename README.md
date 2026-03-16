@@ -33,11 +33,10 @@ This project also helps students **learn modern web development technologies**.
 ### Backend
 
 * Node.js
-* Express.js
 
 ### Database
 
-* Supabase (PostgreSQL)
+* Supabase 
 
 ### Design
 
